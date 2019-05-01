@@ -1,0 +1,18 @@
+{
+    "name": "MFRC522",
+    "version": "0.0.1",
+    "description": "SparkFun gator:light Temperature Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "mfrc522.ts",
+        "mfrc522.cpp",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
